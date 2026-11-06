@@ -1,0 +1,11 @@
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Scratch / temp files
+*.log
+*.tmp
+
+# Exclude the original Soumya-Das-Portfolio subfolder (separate repo)
+Soumya-Das-Portfolio/
